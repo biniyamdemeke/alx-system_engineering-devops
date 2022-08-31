@@ -1,2 +1,2 @@
 #!/bin/bash
-cp /tmp/HTML *html -
+cp -r /tmp/HTML *html -
